@@ -1,0 +1,445 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery of the arbitrary, tyrannicall, and illegall actions of some of the committee of the county of Lincoln, occasioned by a charge given to the grand jury at the Quarter Sessions of the peace held at Folkingham in the county aforesaid, upon the 5 of Octob. 1646. / By Edvvard King, of Marton in the county aforesaid Esquire, Justice of the Peace for that part of the county: wherein is set forth the exorbitancy of the said committee men, who transgressed the laws, changed the ordinances, and broak the solemn vow, League and covenant; with severall warrants under their hands for the cleer and evident proof of the same.</title>
+            <author>King, Edward, of Marton, Lincolnshire.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87750</idno>
+            <idno type="STC">Wing K492</idno>
+            <idno type="STC">Thomason E373_3</idno>
+            <idno type="STC">ESTC R201324</idno>
+            <idno type="EEBO-CITATION">99861848</idno>
+            <idno type="PROQUEST">99861848</idno>
+            <idno type="VID">113993</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113993)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E373[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery of the arbitrary, tyrannicall, and illegall actions of some of the committee of the county of Lincoln, occasioned by a charge given to the grand jury at the Quarter Sessions of the peace held at Folkingham in the county aforesaid, upon the 5 of Octob. 1646. / By Edvvard King, of Marton in the county aforesaid Esquire, Justice of the Peace for that part of the county: wherein is set forth the exorbitancy of the said committee men, who transgressed the laws, changed the ordinances, and broak the solemn vow, League and covenant; with severall warrants under their hands for the cleer and evident proof of the same.</title>
+                  <author>King, Edward, of Marton, Lincolnshire.</author>
+               </titleStmt>
+               <extent>[6], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb: 1st 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lincolnshire (England). --  Committee.</term>
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Political corruption --  England --  Lincolnshire --  Early works to 1800.</term>
+               <term>Lincolnshire (England) --  Officials and employees --  Early works to 1800.</term>
+               <term>Lincolnshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113993:1"/>
+            <pb facs="tcp:113993:1" rendition="simple:additions"/>
+            <p>A DISCOVERY of the Arbitrary, Tyrannicall, and illegall Actions of ſome of the <hi>Committee of the County of Lincoln,</hi> Occaſioned by a charge given to the grand Jury at the Quarter Seſſions of the peace held at FOLKINGHAM in the County aforeſaid, upon the 5 of <hi>Octob.</hi> 1646.</p>
+            <p>BY EDVVARD KING, of Marton in the County aforeſaid Eſquire, Juſtice of the Peace for that part of the County:</p>
+            <p>Wherein is ſet forth the exorbitancy of the ſaid Committee men, who tranſgreſſed the Laws, changed the Ordinances, and broak the Solemn Vow, League, and Covenant; with ſeverall Warrants under their hands for the cleer and evident proof of the ſame.</p>
+            <q>
+               <bibl>
+                  <hi>ISAIAH 3. 14, 15.</hi>
+               </bibl>
+               <p>The Lord will enter into Judgement with the Ancients of his people and the Princes thereof, for ye have eaten up the Vineyard, the ſpoil of the poor is in your houſes.</p>
+               <p>What mean ye that ye beat my people to peeces and grind the faces of the poor, ſaith the Lord God of Hoſts.</p>
+            </q>
+            <p>London, Printed. 1647.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:113993:2"/>
+            <pb facs="tcp:113993:2"/>
+            <head>To the Honourable the Houſe of COMMONS, the humble Petition of EDVVARD KING of Grays Inn in the County of Middleſex Eſquire.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat having according to his Oath and Duty (being a Juſtice of the Peace) given a charge to the Jury at <hi>Fol<g ref="char:EOLhyphen"/>kingham</hi> Seſsions in the County of <hi>Lincoln;</hi> the Sectaries and ſome of the Committees of that County have unjuſtly and unduly proſecuted your Petitioner for the ſame, pretending that the Exciſe was obſtructed, Where<g ref="char:EOLhyphen"/>upon Maſter <hi>Corbet</hi> a Member of this Honourable Houſe, ſent a Warrant for Your Petitioner to attend the Com<g ref="char:EOLhyphen"/>mittee of Lords and Commons for re<g ref="char:EOLhyphen"/>gulating the Exciſe, where Your Peti<g ref="char:EOLhyphen"/>tioner was examined upon intergatories
+<pb facs="tcp:113993:3"/>
+without the knowledge or Order of this Honourable Houſe, and grievouſly vexed and troubled by the indicted De<g ref="char:EOLhyphen"/>linquents, being Ordered by that ve<g ref="char:EOLhyphen"/>ry Committee, to prove and make good by teſtimony the indictment taken before him and other Juſtices of the Peace at the quarter Seſsions, and found by the Grand Jury upon Oath, a ready way as he humbly conceives, to ſubvert all Le<g ref="char:EOLhyphen"/>gall proceedings of Iuſtice and diſcou<g ref="char:EOLhyphen"/>rage all Iuſtices of the peace for doing their duty; Your petitioner having done nothing but his Duty, giving in charge to the Iury that Your Ordinances ought to be obeyed; and that ſuch as by colour of them oppreſſed and poled the people to Your diſhonour (as the Exciſe men had done) ought to be preſented; That not long after <hi>M<hi rend="sup">r</hi> Scawen</hi> a Mem<g ref="char:EOLhyphen"/>ber of Your Honourable Houſe, upon the falſe and malicious complaint of ſome of the Committee of <hi>Lincolnſhire</hi>
+               <pb facs="tcp:113993:3"/>
+who indeavoured to bring a double evil upon him at once without the hearing of Your petitioners juſt defence, or any no<g ref="char:EOLhyphen"/>tice thereof given unto him, preſented a Letter to Your Honourable Houſe, and two papers ſigned under Your petitio<g ref="char:EOLhyphen"/>ners hand, repreſenting great obſtructi<g ref="char:EOLhyphen"/>ons in the Aſſeſsments for <hi>Sir Thomas Fairfax</hi> his Army, occaſioned by Your petitioner, together with falſe and un<g ref="char:EOLhyphen"/>perfect notes, ſtiled the notes of a charge delivered by <hi>Col. Edward King</hi> at the last quarter Seſsions; ſince which time according to Order of Your Houſe dated the fourth of <hi>December,</hi> Your petitioner hath tendred his humble An<g ref="char:EOLhyphen"/>ſwer (hereunto annexed) for his juſt defence, the which the Committee of the Army to whom it was referred to exa<g ref="char:EOLhyphen"/>mine the whole buſineſs have rejected, and examine ſuch perſons (who proſe<g ref="char:EOLhyphen"/>cute the complaint againſt Your petio<g ref="char:EOLhyphen"/>ner) as witneſſes againſt him, the which
+<pb facs="tcp:113993:4"/>
+as Your petitioner humbly conceives is againſt the fundamentall Laws of this Kingdome, and diſtructive to the liber<g ref="char:EOLhyphen"/>ty of the Subject, all which he refers to the Iuſtice, wiſdome, and piety, of this honourable houſe, And prayeth that he may be protected by authority of Parli<g ref="char:EOLhyphen"/>ament according to the Law, and that his accuſers may receive condigne pu<g ref="char:EOLhyphen"/>niſhment for their Offences, and like<g ref="char:EOLhyphen"/>wiſe that Your Petitioner may bee diſmist from further attendance, with honourable ſatisfaction, and reparations againſt his falſe accuſers, who have wrongfully and maliciouſly proſecuted complaints againſt him, almoſt this three years laſt paſt, before ſeverall Commit<g ref="char:EOLhyphen"/>tees, againſt whoſe faithfulneſs they have not been, neither are they able to prove any thing materiall.</p>
+            <closer>
+               <signed>And Your Petitioner, &amp;c.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb n="1" facs="tcp:113993:4"/>
+            <head>To the honourable the Committee of LORDS and COMMONS for Regulating the <hi>Army.</hi>
+            </head>
+            <argument>
+               <p>The humble Anſwer of <hi>EDWARD KINGE</hi> of Grays Inn in the County of <hi>Middleſex</hi> Eſquire, to the falſe ſcan<g ref="char:EOLhyphen"/>dalous and malicious information of <hi>William Bury, Norrice Cave, Thomas Liſter, John Archer,</hi> and <hi>William Savill,</hi> Committee-men for the County of <hi>Lincolne;</hi> occaſioned by a charge given to the Iury at the quarter Seſſions of the peace held at <hi>Folkingham</hi> in the parts of <hi>Keſtiven</hi> in the County of <hi>Lincolne</hi> upon the fifth of <hi>October, 1646.</hi> By the ſaid <hi>EDWARD KINGE.</hi>
+               </p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>His Defendant ſaith, That he hath been always active, diligent, and forward to put in exe<g ref="char:EOLhyphen"/>cution all the Ordinances, and Orders of Par<g ref="char:EOLhyphen"/>liament; and to poſſeſſe the Subjects of this Realm with a right underſtanding of the De<g ref="char:EOLhyphen"/>clarations, Proteſtations, Oaths, and Cove<g ref="char:EOLhyphen"/>nants, ſet forth by both Houſes of Parliament; and of their loyalty and fidelity to his Majeſty; and their juſtice &amp; zeal to maintain the Rights &amp; Liberties of the Subject againſt al Arbitrary proceedings, &amp; unjuſt oppreſſions, by any inſtruments whatſoever: And hath ever been much agrieved, and doth think it ſtrange, that after ſo many Declarations, and ſolemn Proteſta<g ref="char:EOLhyphen"/>tions made to God, and the people, by both Houſes of Parlia<g ref="char:EOLhyphen"/>ment of their ſaid reſolutions: That ſome of the Committee for Lincolnſhire ſhould hope to receive incouragement to iſſue out the Warrants hereafter expreſſed; ſo contrary to the Laws of the Land; the Ordinances, Orders, Declarations, and Votes of Par<g ref="char:EOLhyphen"/>liament; and ſo full of danger, and inconveniences to all the Sub<g ref="char:EOLhyphen"/>jects of that County, (which if admitted) will be a heavier yoke
+<pb n="2" facs="tcp:113993:5"/>
+of bondage upon the people then that of Ship mony, the high Commiſſion, or any other illegall charge which hath been taken away this Parliament as intollerable grievances. And for that it is pretended, that the ſaid Warrants and arbitrary proceedings of the Committee, are warranted by the Ordinances of Parliament, by which they act; This defendant ſaith, that for the clear mani<g ref="char:EOLhyphen"/>feſtation of the untruth thereof, he humbly prays the Judgement of this honourable Committee, the ſaid Warrants being in theſe words; Many of them concerning perſonall differences be<g ref="char:EOLhyphen"/>tween party and party, the which by ſeverall Votes of the Houſe of Commons they are prohibited to intermedle with.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrants">
+                        <div type="warrant">
+                           <head>
+                              <hi>To</hi> Thomas Boxolme <hi>of</hi> Fulletby.</head>
+                           <p n="1">1. WHereas <hi>Iohn Gell</hi> of <hi>Houghton</hi> in the Moore, was or<g ref="char:EOLhyphen"/>dered by us to pay unto you a debt upon a Bond of twelve pounds, which he paid accordingly; and you refuſe to de<g ref="char:EOLhyphen"/>liver unto him the ſaid Bond which is in your cuſtody. This is therefore to will and require you upon notice hereof to deliver unto the ſaid John Gell the ſaid Bill or Bond,<note place="margin">Ma. Whichcott Iohn Barnard. Tho. Nether<g ref="char:EOLhyphen"/>cotts.</note> or otherwiſe to ap<g ref="char:EOLhyphen"/>pear before us upon December 6. next, to ſhew cauſe to the con<g ref="char:EOLhyphen"/>trary; And hereof fail you not in any wiſe.</p>
+                           <closer>
+                              <dateline>Given at Lincolne, <date>November the 16. 1644.</date>
+                              </dateline>
+                           </closer>
+                        </div>
+                        <div type="warrant">
+                           <head>To the Mayor, Bayliffs, Conſtables; and the Inhabitants of <hi>Great-Grimesby.</hi>
+                           </head>
+                           <p n="2">2. BY vertue of an Order to me given by the Right Honour<g ref="char:EOLhyphen"/>able the Lord <hi>Willoughby,</hi> Lord Lieutenant for this County of <hi>Lincolne;</hi> Theſe are to charge and command you, and every of you; that immediately you do bring into <hi>Arbye</hi> one fat Ox, or two Beaſe, price 6<abbr>l.</abbr> 6<abbr>s.</abbr> 8<abbr>d.</abbr> ten fat Sheep, threeſcore pound of Cheeſe, thirty pound of Butter, two dozen of Chickens, twelve hens for proviſion of the Army for the King and Parliament, and likewiſe twenty dozen of Bread, and four barrels of Bear, hereof fail you not upon pain of preſent plundering.</p>
+                           <closer>
+                              <dateline>Dated <date>20. Sep<g ref="char:EOLhyphen"/>tember, 1649.</date>
+                              </dateline>
+                              <signed>
+                                 <hi>Nehemiah Rawſon,</hi> Scout-Maſter-Generall.</signed>
+                           </closer>
+                           <postscript>
+                              <p>You are likewiſe to bring in this day one chaldron of Oats and a quarter of Beans.</p>
+                           </postscript>
+                        </div>
+                        <div type="warrant">
+                           <p n="3">
+                              <pb n="3" facs="tcp:113993:5"/>3.<note place="margin">Ham. which<g ref="char:EOLhyphen"/>cot. John Archer. Cha. Hall. Alex. Emerſon.</note> FOraſmuch as it appears unto us upon hearing and examina<g ref="char:EOLhyphen"/>tion of the differences between <hi>Bridget Martindale</hi> Wid<g ref="char:EOLhyphen"/>dow, and <hi>Thomas Gill</hi> concerning certain Lands in <hi>Morton;</hi> That the ſaid <hi>Bridget</hi> was, and is lawfully ſeized for term of her life, of certain Houſes and Lands in <hi>Marton</hi> by deed of Joynture made before her intermarriage with <hi>Robert Ives,</hi> late of <hi>Marton,</hi> her former Husband, And of all other the Lands of the ſaid <hi>Ro<g ref="char:EOLhyphen"/>bert</hi> in <hi>Marton</hi> aforeſaid by his Will, who dyed about twelve yeers ſince; And that the ſaid <hi>Bridget</hi> hath peaceably and quiet<g ref="char:EOLhyphen"/>ly enjoyed the ſame, till within theſe two yeers; <hi>Thomas Ives</hi> ſon of the ſaid <hi>Robert,</hi> taking advantage of theſe troubleſome and diſtracted times, violently entred into the poſſeſſion thereof, and outed the ſaid <hi>Bridget;</hi> the ſaid <hi>Thomas</hi> dying ſoon after, <hi>Tho<g ref="char:EOLhyphen"/>mas Gill</hi> married his widdow, and relict, and ſo without any colour of title doth ſtill keep the poſſeſſion thereof, contrary to the peace of the County; The peace whereof we are enabled to keep by vertue of an Ordinance of Parliament in that behalf made; Theſe are therefore to require, and command the ſaid <hi>Thomas Gill</hi> and his Wife, to avoid the poſſeſſion of the premi<g ref="char:EOLhyphen"/>ſes by munday next, and to ſuffer the ſaid <hi>Bridget</hi> quietly to en<g ref="char:EOLhyphen"/>joy the ſame as before theſe troubleſome times ſhe did, untill by due courſe of law the title may be further tried, and ſhe evicted, Fail you not herein at your perils.</p>
+                           <closer>
+                              <dateline>Given at <hi>Lincoln</hi> 
+                                 <date>this 11. day of July, 1644.</date>
+                              </dateline>
+                           </closer>
+                        </div>
+                        <div type="warrant">
+                           <head>To the Conſtables of <hi>Kirkſteade</hi> and either of them.</head>
+                           <p n="4">4.<note place="margin">Tho. Trollope. Tho. Liſter. Vill. Savill. Iohn Archer. Cha. Hall. Edward Nor<g ref="char:EOLhyphen"/>thrope.</note> THeſe are to require you, and either of you, to bring before us at <hi>Lincoln</hi> on Tueſday next, the body of <hi>Iohn Willi<g ref="char:EOLunhyphen"/>amſon</hi> of your Pariſh, and with him one black-brown Nag in his poſſeſſion, the proper goods of <hi>Robert Goldinge</hi> of <hi>Dunſton;</hi> to the end that juſtice may be then done by reſtoring the ſaid Horſe to ſuch perſon as upon proofe we ſhall ſee him juſtly to belong, therein you may not fail.</p>
+                           <closer>
+                              <dateline>Given at <hi>Lincolne</hi> 
+                                 <date>this 18 day of March, 1645.</date>
+                              </dateline>
+                           </closer>
+                        </div>
+                        <div type="warrant">
+                           <pb n="4" facs="tcp:113993:6"/>
+                           <head>To the Conſtables and all other the Inhabitants of <hi>Great-Steepeinge.</hi>
+                           </head>
+                           <p n="5">5. <note place="margin">Richard Earle. Jo. Brownlow. Jo. Archer. Sam. Leigh.</note>WHereas by Order of the 30 of July laſt, we ſetled the poſſeſſion of a Houſe and forty Acres of land in <hi>great-Steepeinge</hi> which <hi>Henry Neave</hi> Clerk, whoſe anceſtors and himſelf had continued the poſſeſſion thereof above thirty yeers, untill by force <hi>Richard Forman</hi> and <hi>Philip Danks</hi> en<g ref="char:EOLhyphen"/>tred the poſſeſſion thereof ſince theſe troubleſome times, and held the ſame notwithſtanding our Orders, untill upon further Warrant they were brought before us for their contempt, and one of them ingaged himſelf to deliver up the poſſeſſion thereof: but the other hath abſented himſelf, and put others into the poſ<g ref="char:EOLhyphen"/>ſeſſion of the premiſes, who riotouſly have entred thereinto, and by maintenance hold the ſame. Theſe are therefore to re<g ref="char:EOLhyphen"/>quire and charge you, and every of you, that you bring or ſend in ſafe cuſtody unto us at <hi>Lincolne</hi> on wedneſday next, the bodies of <hi>Nicholas Rawſon</hi> and his Wife, and all other perſons who do withhold the poſſeſſion of the premiſes, or any part thereof from the ſaid Maſter <hi>Neave,</hi> there to be proceeded againſt for the con<g ref="char:EOLhyphen"/>tempt of our Orders: herein you may not fail at your utmoſt perils.</p>
+                           <closer>
+                              <dateline>Given at <hi>Lincolne</hi> 
+                                 <date>this 30 day of Auguſt, 1644.</date>
+                              </dateline>
+                           </closer>
+                        </div>
+                        <div type="warrant">
+                           <head>To <hi>M<hi rend="sup">r</hi> Broxholme</hi> of <hi>Fulletby</hi> and <hi>John Marſhall</hi> of <hi>Reasby.</hi>
+                           </head>
+                           <p n="6">6. WHereas <hi>William Hodgeſon</hi> of Ashby prerorum, is aſ<g ref="char:EOLhyphen"/>ſeſſed ſeverall ſums of mony towards the weekly aſ<g ref="char:EOLhyphen"/>ſeſſements, which he is willing to pay, but is diſabled for that his juſt debts are by you withheld from him, which debts by Or<g ref="char:EOLhyphen"/>dinance of Parliament we are inabled to leavy.<note place="margin">Ham. Which<g ref="char:EOLhyphen"/>cott. Franc. Fines.</note> Theſe are there<g ref="char:EOLhyphen"/>fore to require and command you, and either of you, that you forthwith pay and ſatisfie the ſaid <hi>William Hodgeſon</hi> all ſuch monys as are by you, or either of you, to him due and owing, or ſhew cauſe to the contrary before us at <hi>Lincolne,</hi> on thurſday next the 27 of June inſtant; if you fail herein you will fall into contempt of the High Court of Parliament, and be proceeded a<g ref="char:EOLhyphen"/>gainſt accordingly.</p>
+                           <closer>
+                              <dateline>Given at <hi>Lincolne</hi> 
+                                 <date>the 21 day of June, 1644.</date>
+                              </dateline>
+                           </closer>
+                        </div>
+                        <div type="petition">
+                           <pb n="5" facs="tcp:113993:6"/>
+                           <head>To the honourable Committee at <hi>Lincolne,</hi> The humble Petition of <hi>Henry Pepper.</hi>
+                           </head>
+                           <p>SHewing, That whereas the Petitioner having put into the hands of one <hi>Richard White,</hi> upon ſome conſideration, the ſum of one hundred pound; the manifold debts, charges, Aſſeſ<g ref="char:EOLhyphen"/>ments, and other neceſſary duties continually preſſing your ſup<g ref="char:EOLhyphen"/>pliant for diſcharge: forced him to demand his ſaid 100<abbr>l.</abbr> of the ſaid <hi>Richard White,</hi> who neglects and delays the payment there<g ref="char:EOLhyphen"/>of, to the great hurt and prejudice of the Petitioner, who not receiving the ſaid mony, is altogether unable to pay his Aſſeſ<g ref="char:EOLhyphen"/>ments and other duties, &amp;c.</p>
+                           <p>May it therefore pleaſe the honourable Committee to or<g ref="char:EOLhyphen"/>der, that the ſaid <hi>Richard White</hi> give ſatisfaction to the Peti<g ref="char:EOLhyphen"/>tioner concerning the ſaid 100<abbr>l.</abbr> or be cauſed to appear, to ſhew cauſe to the contrary; and your Petitioner (as he ought to do) ſhall ſtill pray for your proſperity and happineſſe.</p>
+                        </div>
+                        <div type="warrant">
+                           <head>To <hi>Richard White</hi> of <hi>Markeby.</hi>
+                           </head>
+                           <p>WHereas <hi>Henry Pepper</hi> of <hi>Billisby</hi> Gentleman, is aſſeſſed ſeverall ſums of mony for his fift, and twentieth part, and towards the weekly Aſſeſments, which he is willing to pay, but is diſabled, for that the ſum of 100<abbr>l.</abbr> from you to him due,<note place="margin">Ham. Which<g ref="char:EOLhyphen"/>cott. Tho. Cornwallis. Alex. Emerſon. Iohn Archer.</note> and owing is by you with held from him, which debts we are inabled to leavy for payment of monies aſſeſſed. Theſe are there<g ref="char:EOLhyphen"/>fore to require &amp; command you forthwith, to pay &amp; ſatisfie the ſaid <hi>Henry Pepper</hi> the ſaid ſum of 100<abbr>l.</abbr> that he may be thereby inabled to pay his ſaid Aſſeſments, or to ſhew cauſe to the con<g ref="char:EOLhyphen"/>trary before us at <hi>Lincolne</hi> on Fryday the 19 day of this inſtant July; If you fail herein, you will fall into the contempt of the high Court of Parliament, and be proceeded againſt accordingly.</p>
+                           <closer>
+                              <dateline>Given under our hands at <hi>Lincolne</hi> 
+                                 <date>this 12 day of July, 1644.</date>
+                              </dateline>
+                           </closer>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Upon this Warrant, <hi>White</hi> appeared, and having given in<g ref="char:EOLhyphen"/>ſtructions to Mr. <hi>Archer</hi> to be of counſell with him, Mr. <hi>Ar<g ref="char:EOLhyphen"/>cher</hi> at this ſitting refuſed the Chair, where he conſtantly proſi<g ref="char:EOLhyphen"/>ded, takes another fear, and profeſſeth himſelf of counſell with the ſaid <hi>Richard White,</hi> and pleads againſt the Petitioner, and
+<pb n="6" facs="tcp:113993:7"/>
+his own Warrant, and procured a reference to Mr. <hi>Muſſendine,</hi> and Mr. <hi>Woolley</hi> two of the Committee; and not long after Mr. <hi>Archer</hi> being in the Chair, diſmiſt the cauſe.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <head>To <hi>Henry Winge, Gregory Wraw, Thomas Palmer,</hi> and <hi>Thomas Kyme,</hi> Aſſeſſors and Collectors of the third four Moneths aſſeſment, charged on the towns of <hi>Temberland</hi> and <hi>Martyn,</hi> and every of them.</head>
+                        <p n="7">7. VVHereas upon hearing of ſeverall the Inhabitants of both your ſaid Towns on the 15 of May laſt paſt;<note place="margin">Ham. Which<g ref="char:EOLhyphen"/>cott. Tho. Cornwallis Cha. Hall.</note> It was ordered, that to prevent all further differences that might a<g ref="char:EOLhyphen"/>riſe between the ſaid Towns, touching the unequall aſſeſſing of them; That the Town of <hi>Timberland</hi> with the tithes thereof, and the Town of <hi>Martyn</hi> with the tithes thereto belonging, ſhould be equally aſſeſſed, untill cauſe ſhould be ſhewed to the contrary: Now there being no cauſe offered to the contrary; We do charge you to divide the ſum of 29<abbr>l.</abbr> — 5<abbr>s.</abbr> equally upon the ſeverall Towns, that is to ſay, the ſum of 14<abbr>l.</abbr>—12<abbr>s.</abbr>—6<abbr>d.</abbr> upon each Town; of which you are to give account according to our former Warrant, and obſerve ſuch directions in leavying the ſame as therein is directed: Fail not at your perils.</p>
+                        <closer>
+                           <dateline>Given at <hi>Lincolne</hi> 
+                              <date>this 8. day of June, 1645.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And this defendant doth further declare, that Mr. <hi>Archer,</hi> Mr. <hi>Liſter,</hi> and ſome others of the ſaid Committee, have impri<g ref="char:EOLhyphen"/>ſoned, beaten, and evilly intreated their fellow ſubjects, diſinhe<g ref="char:EOLhyphen"/>riting them of their lands, ſpoyling them in their goods, and re<g ref="char:EOLhyphen"/>ſtraining them of their liberties, contrary to the great Charter, the law of the land, and the Ordinances of Parliament, as by theſe particulars following may appear,</p>
+            <p>
+               <hi>Thomas Liſter</hi> Eſquire, having lands in <hi>Rowſton,</hi> (where this defendants tenant <hi>Thomas Cooke</hi> liveth, (who was an Aſſeſſor) refuſed to pay his taxes, whereupon the ſaid <hi>Cooke</hi> complained to Mr. <hi>Archer,</hi> and ſome of the Committee then at <hi>Grantham,</hi> and delivered to them a Letter from the ſaid Mr. <hi>Liſter,</hi> in theſe words,
+<floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="7" facs="tcp:113993:7"/>
+                     <opener>
+                        <salute>Gentlemen,</salute>
+                     </opener>
+                     <p>THat my grounds in <hi>Rowſton</hi> might not lie unſerviceable to the Common-wealth, I have given order for the diſpoſing of them, undertaking to diſcharge whatſoever ſhall be layd upon them by taxes for the Parliament. I therefore deſire that you will take my ingagement for them, and that no other may be queſtioned for them, which ſhall be faithfully performed by</p>
+                     <closer>
+                        <signed>Your humble ſervant, Tho. Liſter.</signed>
+                        <dateline>Lincoln,
+<date>April 19. 1645.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>But this letter notwithſtanding, Mr Archer and ſome other of the Committee impriſoned this Defendants Tennant at Gran<g ref="char:EOLhyphen"/>tham for five weeks, for not paying the ſaid Maſter Liſters taxes, which was maliciouſly done to force this Defendents Tenant from his habitation, and he was ſo unjuſtly terrified by ſome of the Committee, that this Defendent was conſtrained to take 25<abbr>l.</abbr> rent per annum of him, that he might abide in his houſe, though formerly the Defendent leaſed the ſame to him for 58.<abbr>l.</abbr> per an. and upwards, and the ſaid agreement yet in force.</p>
+            <p n="1">1. Maſter Archer and Mr Hall two Committee men ſent a Warrant to Thomas Gill to appear at Lincoln and Anſwer ſuch things as Bridget Martindale ſhould object: upon his appearance Maſter Archer asked him by what Title he held the Land, &amp;c. Gill replyed he held it for his Wifes child being heir at the Com<g ref="char:EOLhyphen"/>mon Law, Maſter Archer ſaid here is a Joynture in writing, un<g ref="char:EOLhyphen"/>leſſe you can diſprove it, ſhe ſhall have the Land, to which Gill replyed, he could prove, it was not ſealed or delivered in her hus<g ref="char:EOLhyphen"/>bands life time; Archer replyed if you bring twenty witneſſes, he not hear them againſt the deed, whereupon Gill deſired he might have a tryall at Law; Archer anſwered unleſs youle yeeld the poſſeſſion you ſhall not, and none ſhall have the hearing of it but our ſelves: Gill told Mr Archer that his predeceſſor was troubled in the Seſsions at Sleaford formerly about it, and that the Bench had referred it to a tryall at the Common-Law, to which Archer replyed. They may do what they will; But we will do what we liſt; and when Gill refuſed to yeeld up the poſſeſſion accor<g ref="char:EOLhyphen"/>ding to an Order of the Committee, he was ſent for by Warrant
+<pb n="8" facs="tcp:113993:8"/>
+to Lincoln, where Mr Archer committed him to priſon, where he lay fifteen weeks, fell very ſick, was at 13. <abbr>s.</abbr> 4. <abbr>d.</abbr> charge by the week, his wife frighted with ſouldiers fell ſick likewiſe, and they loſt the greateſt part of their crop by this unjuſt uſage.</p>
+            <p n="2">2. The Aſſeſſors and Collectors in Keſtiven for the three mo<g ref="char:EOLhyphen"/>neths tax ended, Jan. 1643. were after the expiration of the ſaid Ordinance in the year 1644. by beatings, impriſonments, and diſtreſſes compelled by Mr Archer and ſome of the Committee to pay the ſame to their treaſurer, to the diſhonour of the truely ho<g ref="char:EOLhyphen"/>nourable the Earl of Mancheſter, who had by ſpeciall directions formerly freed that part of the County from thoſe payments in re<g ref="char:EOLhyphen"/>gard Colonel Crumwell had been quartered amongſt them.</p>
+            <p n="3">3. October 1644. A gentleman being in the Committee cham<g ref="char:EOLhyphen"/>ber at Lincoln, was preſent when two Collectors of a Town which was within ſix miles of the Enemies garriſon of Newark, having Collected the greateſt part of their money, and intreated much that they might have time from Wedneſday morning untill Fryday, either to Collect or borrow the remainder, could not ob<g ref="char:EOLhyphen"/>tain it, but to priſon with them; take them provoſt Marſhall; who violently haled them with ſome five or ſix others to priſon for the ſame cauſe; The Gentleman knowing (the firſt two) paſt his word for them to ſee the money paid at the day; at which ſome of the Committee were very angry with him, for breaking the Order of that board; the other Collectors went to priſon.</p>
+            <p n="4">4. Mark Barnes, ſervant to the Lady Carr, being at Grantham the 12 of Novemb. 1644. was ſent for before ſome of the Com<g ref="char:EOLhyphen"/>mittee there, and 9.<abbr>l.</abbr> demanded of him for taxes due for Sir Ro<g ref="char:EOLhyphen"/>bert Carrs Land in old Sleaford; the ſaid Mark told Mr Archer that Colonel Roſſiters horſes eate the grounds; that his Maſters Wood was felled by the Parliaments Forces; and the houſe burnt upon their leaving it; but Mr Archer not having patience to hear him ſpeak, committed him to the Goal where he lay untill he bor<g ref="char:EOLhyphen"/>rowed 9.<abbr>l.</abbr> and paid it.</p>
+            <p n="5">5. May 1645. Some of the Deputy Lieutenants of Lincolnſhire by virtue of the Ordinance of the 3 of July 1644. for putting the Aſſociated Counties of Lincoln, Suffolk, &amp;c. into a poſture of defence for the preſervation and ſafety of the Counties, ſummoned the Inhabitants of the hundred of Elloe together where the major
+<pb n="9" facs="tcp:113993:8"/>
+part of them did propound and nominate Edward King Eſquire for their Colonell according to the Ordinance, and delivered a writing to Thomas Liſter and ſome other of the Deputy-Lievtenants then preſent to declare as much; at which M. Liſter was offended, and ſaid, if he could do any thing in the County, Colonell King ſhould have no command there, and at ſuch time as the Perſons aforeſaid propounded and nominated Colonell King for their Officer; Thomas Liſter replied, that if any cryed (a King againe) he would clap them by the heels, notwithſtanding all which, Colonell King was freely propounded, and nominated, and ſo acknowledged under the hands of ſome of the Deputy-Lievtenants; but in regard the ſaid Deputy-Lievtenants re<g ref="char:EOLhyphen"/>fuſed to approve and allow the choice, the Countrey was not put into a poſture of defence, but waſted, deſtroyed and plundered by the Enemy, contrary to the juſt and honorable intentions of the Parliament.</p>
+            <p n="6">6. Lands in Boothby were taxed, the party named in the Aſſeſſement was neither Tenant, nor Occupier of the Lands, who thereupon repaired to Lincolne to M. Archer, and ſome of the Committee to acquaint them with the truth of his caſe; after he had made it knowne to M. Archer, he preſently trebled the ſum upon him for not payment, and the Marſhall being preſent, he ſaid, take him Marſhall; whereupon he was conſtrained to pay the treble, and complaining of this abuſe to M. Diſney one of the Committee, he went and ſearched the booke, and told him, that the ſingle Aſſeſſement was onely entred.</p>
+            <p n="7">7. Divers Aſſeſſors complaining to M. Archer and ſome of the Committee, that M. Wincop the Sub-Commiſſioner for Excize refuſed to pay the Parliaments Aſſeſſements, and had not goods whereby to be diſtrained, were committed to pri<g ref="char:EOLhyphen"/>ſon by M. Archer untill they paid them.</p>
+            <p n="8">8. One of Heckington being much oppreſſed by free quar<g ref="char:EOLhyphen"/>ter, and having forty quarters of corne taken from him, com<g ref="char:EOLhyphen"/>plained to the Committee at Lincolne, where M. Archer re<g ref="char:EOLhyphen"/>viled him, called him knave, and in angry manner bad him give
+<pb n="10" facs="tcp:113993:9"/>
+two ſh<gap reason="illegible" resp="#OXF" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> to his man to draw up a petition to the board, if he had <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ng to complain of.</p>
+            <p>And this Defendant further ſaith, that ſo great were the miſcarriages of the ſaid Committee in Lincolnſhire, that Co<g ref="char:EOLhyphen"/>lonell Cromwell (now Lievtenant-Generall) informed the Houſe of Commons of the ſame, whereupon <hi>Die Luna,</hi> 22. <hi>Janu.</hi> 1643. a Committee was nominated to take into conſi<g ref="char:EOLhyphen"/>deration the miſcarriages informed, &amp;c. <hi>Die Lunae,</hi> 29. <hi>Janu.</hi> 1643. It was reſolved upon the queſtion by the Commons Houſe of Parliament, that the Committee for Lincolnſhire Informations ſhall have power to examine Sir Anthony Irby, M. Ellis, and Sir Edward Ayſcough, Members of this Houſe; but the troubles of the Kingdome increaſing, and Colonell Cromwell being commanded to his charge, no proceedings were made in the ſame; whereupon divers of the Commit<g ref="char:EOLhyphen"/>tee-men, as M. Archer, M. Liſter, &amp;c. returned into the Countrey, and being ſharpened and in raged by the complaint againſt them, impriſoned, ſpoiled and deſtroyed the poore Inhabitants of the County, under a faire and ſpecious ſhew of executing the Ordinances of Parliament, and procured by falſe and untrue informations notorious Delinquents to be nominated of the Committee, and act with them, ſuch as Sir Richard Earle, and William Godfrey who had voluntari<g ref="char:EOLhyphen"/>ly contributed money, horſe, aid, and aſſiſtance towards the maintenance of the Forces raiſed againſt the Parliament, and are puliquely knowne to be notorious Delinquents; and cau<g ref="char:EOLhyphen"/>ſed this Defendant and divers others, who had ſerved the Parliament faithfully, to be diſgracefully put out of all com<g ref="char:EOLhyphen"/>mands or employments for the publique, by which means our eſtates became ſubject to, and were unduly taxed by Delin<g ref="char:EOLhyphen"/>quents, who by the ſaid Committees were nominated Aſſeſ<g ref="char:EOLhyphen"/>ſors; the which burthens being intollerable, a humble Re<g ref="char:EOLhyphen"/>monſtrance ſubſcribed with above 3000. hands of the Com<g ref="char:EOLhyphen"/>mons of the ſaid County, was preſented to the Houſe of Commons, and <hi>Die Mercurii,</hi> 6. <hi>Novem.</hi> 1644. it was Orde<g ref="char:EOLhyphen"/>red, that the Remonſtrance be referred to the Members of the Houſe that are of the Earle of <hi>Manche<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ers</hi> Aſſociation; where the Petitioners attended many weeks, and after the
+<pb n="11" facs="tcp:113993:9"/>
+expence of much money, and time, ſome of the aforeſaid Warrants and Informations being proved againſt M. Archer, upon a ſuggeſtion to the Houſe of Commons, M. Archer was orderd to have thanks given him, and to return into the Countrey, the which was very unexpected, and put the Peti<g ref="char:EOLhyphen"/>tioners and the whole County of Lincolne into an amaze<g ref="char:EOLhyphen"/>ment; ſince which time the ſaid M. Archer, Liſter, and ſome other of the Committee, have continued in Lincolneſhire, and being Committee-men, to the diſhonour and ſcandall of the Parliament, have not reſtrained men of unſound doctrine to preach, though not ordained Miniſters, nor allowed for the triall of their guifts, as by both Houſes of Parliament was ordained; have oppreſſed, and tyrannized over the people, waſted the treaſure of the County, and conſumed the eſtates of Delinquents, by their miſ-government, letting them to the Owners, and Malignants, abuſing the Honor and Juſtice of Parliament; the which being apparent to this Defendant by view of the Warrants, and by complaint of the people who groaned, and cryed out under their oppreſſions, and were ready to diſpaire in the Juſtice of the Parliament, this Defendant, according to the duty of his place, did openly deliver for the Honor of the Parliament, and for the quiet and ſatisfaction of the people, a Charge to the Jury at Fol<g ref="char:EOLhyphen"/>kingham-Seſſions in Lincolnſhire to this effect:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="charge">
+                        <p>MY Maſters of this Jury,<note place="margin">The Charge.</note> being called to this publike ſer<g ref="char:EOLhyphen"/>vice, I am reſolved this day to ſet before your eyes the wiſdome, piety, prudence, and juſtice of the Parliament, and to let you know in all their Proteſtations, Covenants, Oaths, and Declarations, how tenderly they have expreſſed them<g ref="char:EOLhyphen"/>ſelves for the preſervation of our Religion, Laws, and Liber<g ref="char:EOLhyphen"/>ties, and that done, your ſelves and the world be Judges how ſutable the actions of thoſe have beene, who contrary to their pious &amp; juſt intentions have ſuffered hereſies to be open<g ref="char:EOLhyphen"/>ly taught amongſt us, and laid unſufferable burthens upon us, by miſuſing, altering and ſubverting the Ordinances of Par<g ref="char:EOLhyphen"/>liament. When we firſt tooke up armes in our owne juſt de<g ref="char:EOLhyphen"/>fence againſt the will of our Soveraigne, ſeduced by wicked
+<pb n="12" facs="tcp:113993:10"/>
+councellers, it was, as the Parliament ſolemnly proteſted, and vowed, and by Covenant ingaged us to believe, for the de<g ref="char:EOLhyphen"/>fence of our Religion, Lawes, and Liberties, ſuch was their zeale to the Covenant, as who is there here before me this day that was not by command ordained to take it? nay, who is there in the Nation, if juſtice be executed, that eſcapes pu<g ref="char:EOLhyphen"/>niſhment if they obſtinately refuſe it? The Parliament in the time of greateſt danger, declared themſelves tender of our Lawes, and Liberties, they laid no tax or aſſeſſement upon us, untill we refuſed to help our ſelves by voluntary contributi<g ref="char:EOLhyphen"/>ons, and when they did it, they aſſured us, and did proteſt in the preſence of the all-ſeeing Diety, that their onely end was to provide for the publike peace, and proſperitie of His Ma<g ref="char:EOLhyphen"/>jeſtie, and all his Realmes, to preſerve the Religion, and Li<g ref="char:EOLhyphen"/>berties of the Kingdome, for being ſeized, and devoured by a wicked party; and they doubted not but to deliver us at the laſt, if the people ſuffered not themſelves to be deluded by falſe and ſpecious ſhewes. When they were in danger to be baffled, and injured by a malignant party, who had no re<g ref="char:EOLhyphen"/>ſpect to the Lawes of the Land, they excited the well-af<g ref="char:EOLhyphen"/>fected perſons to contribute their beſt aſſiſtance according to the ſolemne Vow and Covenant, and did declare, that who<g ref="char:EOLhyphen"/>ſoever ſhould bring in money, plate, horſe, &amp;c. ſhould do ac<g ref="char:EOLhyphen"/>cording to their duty, and that the ſame ſhould not be em<g ref="char:EOLhyphen"/>ployed upon any other occaſions, then the maintaining the Proteſtant Religion, the Kings Authority, and his Perſon, our Lawes and Liberties; all which the Parliament in ſeve<g ref="char:EOLhyphen"/>rall Declarations, preſt upon us, as being anſwerable before God, for the neglect of them; they wraſtled earneſtly for our Lawes and Liberties, being aſſured that mens minds being made poor, and baſe, and their Liberties loſt and gone, they would be ready to let go their Religion alſo: Why then ſhould any man entertain a diſhonorable thought of the Parliament, who have ſo ſolemnly lifted up their hands to the high God, as to feare they'l not maintaine the Lawes of the Land, but ſuffer an Arbitrary Government, a thing every honeſt morall man abhors, to be introduced upon us, and in truth ſuch an act, as no rationall man can believe the Houſes
+<pb n="13" facs="tcp:113993:10"/>
+of Parliament will be guilty of? who can imagine (as them<g ref="char:EOLhyphen"/>ſelves have declared) that ſix hundred men of equall power ſhould agree in acts of will and tyranny, or that the Nobili<g ref="char:EOLhyphen"/>ty and chief Gentry ſhould conſpire to take away the Law, by which they injoy their eſtates, are protected from acts of vio<g ref="char:EOLhyphen"/>lence and power, and differenced from the meaner ſort of people? For my part, though my owne and others ſuf<g ref="char:EOLhyphen"/>ferings bee great, in regard that hitherto the current of juſtice hath been obſtructed by the malice of enemies, and the late diſtractions, yet I am confident, the Parliament will approve themſelves faithfull to the Covenant; and that you and I might now obtaine juſtice, if wee would contend for it. What though ſome of our Egyptian task-maſters compell us to make bricke without ſtraw, and beat and impriſon us without fault; what though they governe us by an Arbitrary, and Tyrannicall Power, and tread the Covenant, Ordinances, and Declarations of Parliament under foot, inſomuch that they are become like juglers knots, faſt and looſe at the will of ſome men; ſhall we therefore deale falſely and treacherouſly with our God and the Parliament, and our ſelves in the Covenant; and Eſau-like ſell our birth rights for a Meſſe of pottage? God forbid; I am aſſured, if at this time I ſhould aske you whether you would part with your God, and Liberties or not, you would anſwer me, no: but you have in a great meaſure par<g ref="char:EOLhyphen"/>ted with your God; and others with a high hand have inva<g ref="char:EOLhyphen"/>ded your Liberties, by means of your own diviſions; for durſt any blaſpheme God, or prophane the Sabboth, or ſuffer dam<g ref="char:EOLhyphen"/>nable Doctrines to be taught; or durſt the proudeſt ſubject in this Realme beat, impriſon, and exerciſe a tyrannicall pow<g ref="char:EOLhyphen"/>er over you; if you would according to the Covenant ad<g ref="char:EOLhyphen"/>here together, that ſuch who thus diſhonour, and injure the Parliament and oppreſſe you, might be brought to condigne puniſhment; if you will take example of a dying man, I'le tell you the ſtory; The Father lying ſick upon his death-bed cauſed his quiver of arrowes to be brought unto him, and that done, ſent for his Sonnes, who ſtanding about his bed, he delivered the quiver of arrowes into the hands of his eldeſt
+<pb n="14" facs="tcp:113993:11"/>
+ſonne, and commanded him to break them, he took them, and replyed, Father I cannot; he then delivered them to each ſon ſeverally, with a like command, and they anſwered as the eldeſt had done; he then took the quiver into his own hand, and drew out an arrow, and commanded his eldeſt ſon to break it, who obeyed and did ſo; he then delivered ano<g ref="char:EOLhyphen"/>ther to his ſecond ſon, and ſo to each, who did as the elder Brother had done; and ſo all the arrowes became broken. Ile leave the application to your ſelves, be you <hi>wiſe as Ser<g ref="char:EOLhyphen"/>pents, and innocent as Doves;</hi> which if you were, durſt ſome Committee-men contrary to Law, and the Ordinances by which they act, put you out of your poſſeſſions by force, lay arbitrary taxes upon you, by their own power, without any Ordinance, and ſo deſtroy the property you have in your goods; by taking your beefes, muttons, bacon, corn, hay, &amp;c. from you, and ordering ſouldiers to have free quarter a<g ref="char:EOLhyphen"/>mongſt you, though they collect from the Countie monies ſufficient to ſatisfie their pay; if you would enquire after ju<g ref="char:EOLhyphen"/>ſtice,<note place="margin">Nota.</note> and not ceaſe to proſecute your complaints, and grie<g ref="char:EOLhyphen"/>vances in a juſt, and legall way, untill they were heard, and redreſſed,<note n="*" place="margin">Tho: Liſter left his Cou<g ref="char:EOLhyphen"/>lours, Arms, &amp;c. at Spal<g ref="char:EOLhyphen"/>ding, upon a rumour that the Earle of Newcaſtle was coming into thoſe parts; The which the Defendent marched un<g ref="char:EOLhyphen"/>der, &amp;c.</note> durſt ſome have betrayed your lives, and eſtates into the enemies hand, by unworthily deſerting you in the time of your greateſt danger; and that after they had levyed vaſt ſums upon you, for your defence; if you were active, and ſtout in purſuing the Covenant, and in proſecuting them for their cowardice, and treachery? Would any have dared to put obſolete Ordinances in execution upon you, and impriſo<g ref="char:EOLhyphen"/>ned you for monies, which ſhould have been taxed, when the Earle of Newcaſtles Army frightned them? ruined you, and poſſeſt the Country, contrary to the mind of the Parliament, &amp; intent of the Ordinances? durſt the Committee-men for the fift, and twentieth part view and review you; and review you again, the Exciſe-men poll you, contrary to their Ordinance, and the Oath therein preſcribed, taking exciſe for the ſucking children that hangs upon the Breaſt, and for the Bullock that caſually dieth under the yoake? durſt ſome of the Committee-men, and Deputy-Lievtenants have denyed to put you into a poſture of defence, according to the Ordinance of Parlia<g ref="char:EOLhyphen"/>ment,
+<pb n="15" facs="tcp:113993:11"/>
+thereby to have preſerved you from ruine, and plunder of the Enemies? or durſt at this preſent ſome of the Com<g ref="char:EOLhyphen"/>mittee leavy a ten moneths tax upon you by colour of the Or<g ref="char:EOLhyphen"/>dinances for Sir Thomas Fairfax his Army, which impoſeth only twenty moneths tax upon you; when they have already leavyed two and twenty moneths, being two moneths more then that Ordinance impoſed on you; beſides other undue taxes of monie, corn, and free-quarter, to boot, during the ſelfe ſame moneth? durſt any keep the Ordinance for ſeque<g ref="char:EOLhyphen"/>ſtration, as a rod over their backs, who are well-affected to the Parliament, to compell them to beare the iron yoake of their arbitrary and exorbitant proceedings; if you had not (like unworthy Engliſh-men) ſold your ſelves to their bon<g ref="char:EOLhyphen"/>dage, and ſlavery? have you read the ſtory how Hanun u<g ref="char:EOLhyphen"/>ſed Davids ſervants; the text tells you he ſhaved off the one halfe of their beards, and cut their garments in the middle, even to their buttocks, and ſent them away; the which when they told it to David, he took revenge of Hanun for intrea<g ref="char:EOLhyphen"/>ting them ſo vilanouſly; All I ſay to you is this, look about you, and ſee whoſe beard is not ſhaven, or whoſe garment is not cut off in the middle, even by their Buttocks by theſe Hanuns, and that done, ſay if you have told our Davids the Worthies of Parliament, who are ignorant of it, or if you have ſought a legall remedy againſt them. This day you have taken an Oath to preſent all things given you in charge, and that without reſpect of Perſons; the Law certainely wil con<g ref="char:EOLhyphen"/>quer the greater, as well as the leſſer offenders; Juſtice is pain<g ref="char:EOLhyphen"/>ted blind, that ſhe may not diſtinguiſh of perſons, the ſword is put into the Rulers hand to execute wrath upon him that does evill, and our God is a righteous Judge, I may ſay with David, the Lord never failes nor forſakes thoſe that put their truſt in him; why then ſhould that curſe which God denoun<g ref="char:EOLhyphen"/>ced againſt Meroz fall upon our heads? I know you neither will, nor deſire to ſell your ſelves, your wives, your ſonns, and your daughters into the hands of oppreſſors; it is for thoſe onely who love ſuch Maſters, and will not go out free to go to the door-poſt, and to let their Maſters boare their ears thorough with an aul, and to ſerve them for ever; for
+<pb n="16" facs="tcp:113993:12"/>
+my part, being now called to this place of Juſtice, and unex<g ref="char:EOLhyphen"/>pectedly put upon this ſervice to give the Charge, I'le never pay tithe of mint, and anniſe, and cumin, and when I have done contrary to my oath and duty, omit the weightier mat<g ref="char:EOLhyphen"/>ters of the Law, Judgement, mercy and faith, if I periſh, I pe<g ref="char:EOLhyphen"/>riſh; I will not hold my peace, whilſt the Hamans of the times are working our diſtruction; what if few, or none that oppoſeth their arbitrary, and illegall practiſes, and compli<g ref="char:EOLhyphen"/>eth not with them in their crooked waies eſcapeth unſeque<g ref="char:EOLhyphen"/>ſtred, or ruined, ſhall I therefore feare, and fly? I'le not diſ<g ref="char:EOLhyphen"/>ſemble and deal falſly with God, the Parliament and you, to ſave my life, my eſtate, &amp;c. neither will I be terrified by menaces, or the injuſtice of malefactors, I know what became of Haman who had a wicked plot to deſtroy the Jewes, and offered ten thouſand talents of ſilver, and pretended that the people kept not the Kings Lawes; our caſe is almoſt the ſame: was not this Countrey reported by ſome to the Parlia<g ref="char:EOLhyphen"/>ment, to be generally Malignants? and are not many who are well-affected, dealt with as Malignants? Nay, have not ſome Malignants more favour then many of us? It was you the Commons of this Countrey under God, that upheld this Parliaments Authority here, and it is for your good that they ſit in Councell: feare not then to maintaine your Laws and Liberties, we have a juſt God, and an honorable Parliament, in whoſe eyes there will be no reſpect of Perſons; Accor<g ref="char:EOLhyphen"/>ding to my duty, I ſhall this day put you in minde of two things, your duty towards God, and your duty towards your Neighbour: If you have regard to the firſt, preſent all Pa<g ref="char:EOLhyphen"/>piſts, Anabaptiſts, Browniſts, Separatiſt, Antinomians and Hereticks, who take upon them boldneſs to creep into hou<g ref="char:EOLhyphen"/>ſes, and lead captive ſilly women laden with ſinnes; Propha<g ref="char:EOLhyphen"/>ners of the Sabboth, Swearers, Drunkards, Fornicators, Ido<g ref="char:EOLhyphen"/>lators, Adulterers, abuſers of themſelves with mankinde, or with beaſt; If you regard the ſecond, and deſire that common right be done to all, as well poor as rich, without reſpect of Perſons, preſent ſuch as ſpeake irreverently of the Perſon of the King, our undoubted Soveraigne, and if any man goe about to compaſſe or imagine his death it's Treaſon: to
+<pb n="17" facs="tcp:113993:12"/>
+counterfeit the great Seale, the Privie Seale, or money current in this Realme, is Treaſon: to kill or murther the Chancellour, Treaſurer, Juſtices of the one Bench or other, Juſtices in Eyre, of Aſſize, Oyer and Terminer in their places doing their offices, is treaſon; to levy warre a<g ref="char:EOLhyphen"/>gainſt the King is treaſon; which is to be underſtood againſt his authority in the maintenance of Lawes, and Religion; not his illegall will and that Malignant party who now adhere unto him; to adhere unto the Kings Enemies within the Realme, or without, and declaring the ſame by ſome open act is treaſon, which you ought to preſent; All manner of Felonies you ought to preſent; ſuch is Sodomy, Sorcery, Rape, Burglary, Robbery, Murder, Manſlaughter, and ſtealth; offen<g ref="char:EOLhyphen"/>ces with force you are to preſent, as Maimes, Batteries, falſe impriſonment, aſſaults, and menaces; Falſe impriſonment is when one is committed againſt Law without lawfull power, Mittimus, commandment, Order or Warrant; Offences with<g ref="char:EOLhyphen"/>out force you ought to preſent; ſuch are nuſances, deceipts, &amp;c. Offences againſt the Statutes you are to preſent as, Ale-houſes unlicenſed, or diſorderly ale-houſes not obſerving their li<g ref="char:EOLhyphen"/>cence; Ryots, Routs, and unlawfull aſſemblies you ought to preſent, ſuch as have a plague ſore and wilfully and contemp<g ref="char:EOLhyphen"/>tuouſly go abroad, and converſe in company contrary to commandment, you ought to preſent: Bribery and Extorti<g ref="char:EOLhyphen"/>on you ought to preſent, Bribery is when any perſon for do<g ref="char:EOLhyphen"/>ing his office, or by colour of his office, takes any fee, gift, reward, or brocage, being workers of iniquity; without know<g ref="char:EOLhyphen"/>ledge, eating up the people, as they eat bread. Extortion is unlawfull exacting of any fee, or reward; an offence the of<g ref="char:EOLhyphen"/>ficers of ſome Committees are highly guilty of, if the common voice be not a lyer; my Lord Cook tells us that the Collectors of fifteens were committed to priſon for that they took of e<g ref="char:EOLhyphen"/>very Town one ſhilling ſix pence for in acquittance, your ſelves beſt know what you have payd; and in what manner it hath been exacted from you; I have heard ſtrange ſtories both of Exciſe-men, Committee-men, their Clarks, and Sequeſtra<g ref="char:EOLhyphen"/>tors in this nature, if they be true; I ſhould be glad to ſee them preſented; you are likewiſe to preſent perjury which is
+<pb n="18" facs="tcp:113993:13"/>
+a willfull, and corrupt forſwearing of a mans ſelfe. And it is twoſold; aſſert: ut de praeterito, ſicut teſtes, &amp;c. ſeu permiſ<g ref="char:EOLhyphen"/>ſorium, de futuro, ſicut Judices, Juſticiarii, Officiarii, &amp;c. if an Officer commit Extortion he is perjured becauſe it is againſt his generall oath; but if a Sheriffe receive a Writ unſealed (as ſome have done) this is perjury, being againſt his expreſſe oath; if any perſon indite ſuch offences, and the Jury wilful<g ref="char:EOLhyphen"/>ly refuſe to find them, the ſinne is theirs, and the party that indited, or informed ſhall receive no dammage, whatever ſome ignoramuſſes have out of malice divulged to the contra<g ref="char:EOLhyphen"/>ry. You now know what are offences, and I preſume ſome of you that are of this Jury remember the offendors; Impri<g ref="char:EOLhyphen"/>ſonments and unkind blowes are not eaſily forgotten: Let it not then be ſaid that you incourage wicked men; let not thoſe whoſe houſes are full of deceit who are become great, and waxen rich thorough bribery, and oppreſſion, refuſing to judge the cauſe of the fatherleſſe, and the right of the needy, eſcape your preſentments; If falſe teachers be among you, who privily bring in damnable hereſies, and your governours have exacted corn, hay and money from you, ſhall it be ſaid in a time of Reformation that my people delight to have it ſo? No, remember your Covenant, and the Oath you have now taken, provoke not the Lord to anger by ſparing or concea<g ref="char:EOLhyphen"/>ling any malefactor; but be bold, and of a good ſpirit, turne not to the right hand, nor to the left in your preſentments, that ſo God may proſper you whereſoever you go.</p>
+                        <trailer>Finis.</trailer>
+                        <closer>
+                           <signed>Edw. King.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now this Defendant further ſaith, that Thomas Liſter Eſquire, during the time that he was High She<g ref="char:EOLhyphen"/>riffe of Lincolnſhire, received a Writ for the Election of a Burgeſſe to ſerve in Parliament for the Towne of Grimsby, the which Writ being unſealed when it was delivered unto him, he refuſed to grant a precept under his Seale to the Mayor of Grimsby, taking no<g ref="char:EOLhyphen"/>tice
+<pb n="19" facs="tcp:113993:13"/>
+it was againſt his oath ſo to doe, as by this Let<g ref="char:EOLhyphen"/>ter may appeare;
+<floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>I Received a Letter from you, but when the ſame was written I know not, and in the Letter ſome thing like a Writ, directed I cannot tell to whom; by what appeares legible in the Labell, by my Oath as I take it, I am to receive no Writs but ſealed, and though you write you broke it up; yet it might come to you unſealed, and whether it be ſafe for me to grant a warrant upon it I muſt adviſe, and take councell in it, I deſire to be informed, how it came to your hands, and whether a Letter, or perſon came with it; to give you aſſurance it was rightfully obtained, I deſire to walke warrantably ſo neere as I can, eſpecially in a matter of ſo great concernment, wherein I hope you will excuſe him, who will be ready to ſerve you, and expreſſe himſelfe</p>
+                     <closer>
+                        <signed>Your affectionate friend, Thomas Liſter.</signed>
+                        <dateline>Lincoln
+<date>14. Octo<g ref="char:EOLhyphen"/>bris, 1645.</date>
+                        </dateline>
+Subſcribed, 
+<salute>To the Right VVorſhipfull Iohn Moore, Mayor of Grimsby, theſe deliver.</salute>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>But this Defendant who ſtood for the place, being ſummoned up to London to anſwer a complaint ſub<g ref="char:EOLhyphen"/>tilly deviſed againſt him, the ſaid Sheriffe to injure this
+<pb n="20" facs="tcp:113993:14"/>
+Defendant in his abſence delivered a precept under his ſeale to the Mayor of Grimsby, upon that thing like a Writ, commanding him to proceed to the Ele<g ref="char:EOLhyphen"/>ction of a Burgeſſe, and afterwards unduly returned Mr. William Wray; who at that time was an Infant, and beyond the Seas; the Mayor not ſealing an In<g ref="char:EOLhyphen"/>denture according to the Statute, the which this De<g ref="char:EOLhyphen"/>fender conceiveth was againſt his oath, the Law of the Land, and Statutes of the Realme, and for ſo do<g ref="char:EOLhyphen"/>ing the ſaid Sheriffe ought to be puniſhed.</p>
+            <p>This Defendent likewiſe ſaith, that by vertue of ſeverall Ordinances of the Lords and Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, there was monethly to be charged upon the County of Lincolne from the firſt day of February 1644. untill the tenth of October 1646. 2070. <abbr>l.</abbr> to be taxed, levyed and payed for the maintenance and payment of the Army under the imme<g ref="char:EOLhyphen"/>diate command of Sir Thomas Fairfax, &amp;c. and charges inci<g ref="char:EOLhyphen"/>dent, to which Army the Regiment of horſe under the com<g ref="char:EOLhyphen"/>mand of Col. Roſſiter, was and is belonging; And this De<g ref="char:EOLhyphen"/>fendent ſaith that the Committee of Lincolnſhire neither had nor have any power to aſſeſſe or levy any other ſum or ſums of money whatſoever for the maintenance of any other for<g ref="char:EOLhyphen"/>ces in that County,<note place="margin">The 2800.<abbr>l</abbr> 
+                  <hi>per menſem</hi> ought not to be levy<g ref="char:EOLunhyphen"/>ed, being the County was not into a poſture of de<g ref="char:EOLhyphen"/>fence.</note> other then as aforeſaid: The which ſeve<g ref="char:EOLhyphen"/>rall ſums ought to have been divided and apportioned by the Committee of the County to be levyed upon the ſeverall and reſpective Wards, Diviſions, Hundreds, Layths and Wapen<g ref="char:EOLhyphen"/>takes according to the uſual proportions, &amp; diviſions of Rates in the ſaid places; and that done two of the Committee ought to have directed their warrants to ſeverall perſons within the Reſpective diviſions, to be aſſeſſors of the ſaid rates, which perſons were required to aſſeſſe every perſon within their di<g ref="char:EOLhyphen"/>viſion, according to the Rate, and proportion in the Ordi<g ref="char:EOLhyphen"/>nances mentioned; and to the end the ſaid Rates might be e<g ref="char:EOLhyphen"/>qually and indifferently aſſeſſed, and the mony duly collected, and a true account thereof made, the Aſſeſſors were by the
+<pb n="21" facs="tcp:113993:14"/>
+Ordinances required within ſix daies after the Aſſeſſement made to deliver one Copy of their Aſſeſſements fairly writ<g ref="char:EOLhyphen"/>ten, and ſubſcribed by them, unto the ſaid Committee, and the ſaid Committee were required to ſign and ſeale three dupli<g ref="char:EOLhyphen"/>cates of the Aſſeſſements, whereof one duplicate the Com<g ref="char:EOLhyphen"/>mittees were to deliver to the Collectors with warrants to them to collect the ſaid Aſſeſſements, and an other duplicate to ſuch perſon or perſons as the Houſes of Parliament ſhould appoint for receiving the ſame, and the third duplicate to the Committee of accounts of the Kingdome as hath been ac<g ref="char:EOLhyphen"/>cuſtomed in the Court of Exchequer in the caſe of Eſtreats of Subſidies, and now uſed in this aſſeſſement in all other Coun<g ref="char:EOLhyphen"/>ties liable to it but ours, and two of the ſaid Committee were to nominate one or more ſufficient and honeſt perſons in eve<g ref="char:EOLhyphen"/>ry diviſion to be Collectors of the ſaid monies ſo aſſeſſed or ra<g ref="char:EOLhyphen"/>ted; which Collectors were required to collect the ſaid money ſo aſſeſſed, and if any perſon refuſed or neglected to pay the ſame, then the ſaid collectors might levy the ſame by diſtreſs and ſaile of his goods. But this Defendant ſaith that ſome of the Committee of Lincoln having a greedy and covetous diſ<g ref="char:EOLhyphen"/>poſition to inrich themſelves, diſhonour the Parliament and abuſe the people in contempt of the Ordinances of Parlia<g ref="char:EOLhyphen"/>ment, never intending to give a true and perfect account of their doings, and proceedings, wholly neglected, and omit<g ref="char:EOLhyphen"/>ted to ſign and ſeale any duplicates, or in any due, or orderly manner to aſseſs the ſame; but by an Arbitrary, illegall and tyrannicall power, ſome of the ſaid Committee iſſued out a Warrant dated the ſixth of September 1645. under the hand of Sir Richard Earle, Sir Thomas Trallope, Sir Hammond Whichcot, Francis Clinton, alias Fines, Edmund Ellis, and Cha. Hall, Committee-men for the County of Lincoln, and without any duplicate of an aſſeſsment ſigned and ſealed; there was unjuſtly levyed upon this Defendants eſtate and the Inhabitants of the ſaid County in a confuſed and diſorderly manner, the ſum of 2800. <abbr>l.</abbr> per menſem for ſix moneths, and by another Warrant as aforeſaid under the hands of Sir Ham<g ref="char:EOLhyphen"/>mond Whichcot Knight, William Diſme, Edmund Ellis,
+<pb n="22" facs="tcp:113993:15"/>
+Will. Godfrey, Cha: Hall, and Richard Filkin, Committee-men for the County aforeſaid, bearing date the ſixt of Feb. 1645. there was levyed as aforeſaid, the ſumme of 2070. <abbr>l.</abbr> 
+               <hi>per menſem,</hi> for ten moneths, and by another Warrant under the hands of Sir Richard Earle, Edmund Ellis, John Hobſon, Richard Brian, John Archer, and John Diſ<g ref="char:EOLhyphen"/>ney, Committee-men as aforeſaid, bearing date the 4. of May, 1646. there was levied as afore-ſaid 2800.<abbr>l.</abbr> per-menſem for ſix months, which ſums amount to 54300.<abbr>l.</abbr> wher<g ref="char:EOLhyphen"/>as if regards be had to the Ordinances of Parliament, the ſaid Committee ought not, neither can they juſtifie the levy<g ref="char:EOLhyphen"/>ing of any more or other, by colour of any Forces whatſoe<g ref="char:EOLhyphen"/>ver, then the ſum of 41400.<abbr>l.</abbr> which this Defendant being well aſſured of and knowing they have no power derived from Parliament in this arbitrary manner to impoſe or re<g ref="char:EOLhyphen"/>quire any the aforeſaid payments, or to inforce the Inhabi<g ref="char:EOLhyphen"/>tants by impriſonments, fines and diſtreſſes, to pay, the ſame to William Bury their Treaſurer: this Defendant did command his Tenants not to pay the laſt ſix months tax after that manner rated, and impoſed upon them, being it was un<g ref="char:EOLhyphen"/>juſtly and unduly laid upon them, and amounted to 12900.<abbr>l.</abbr> more then the ſaid Ordinances do Warrant; whereupon one Robert Dawſon, and Thomas Cook, two of this Defendants Tenants, for refuſing to pay the ſame, were by ſouldiers im<g ref="char:EOLhyphen"/>priſoned at Lincolne, and their goods taken from them, and this Defendants Eſtate ſequeſtred, by order of ſome of the aforeſaid Committees. Now this Defendant well knowing that the Houſe of Commons had declared, that they would not, nor any by colour of Authority derived from them, ſhould interrupt the ordinary courſe of Juſtice in the ſeverall Courts and Judicatories of the Kingdome, did ſue out of the Kings Bench ſeverall <hi>habeas corpus's,</hi> for the relieving of this ſaid Defendants Tenants, and intends with the favour of this honourable Committee, to ſeek repaire and ſatisfacti<g ref="char:EOLhyphen"/>on by Law. And this Defendant further ſaith, that a War<g ref="char:EOLhyphen"/>rant being ſent unto Marton and other Townes in Lincoln<g ref="char:EOLhyphen"/>ſhire, for the levying 2070.<abbr>l.</abbr> 
+               <hi>per menſem</hi> more for ten months
+<pb n="23" facs="tcp:113993:15"/>
+dated the 7. of Sept. 1646. ſubſcribed with the names of Ri<g ref="char:EOLhyphen"/>chard Earle Knight, William Savill, and ſome other of the Committees, commanding the Collectors to pay the ſaid mo<g ref="char:EOLhyphen"/>ney to William Bury Gentleman, their receiver at Lincoln the one halfe upon the 25. day of Sept. laſt; the other halfe upon the 13. of Novemb. he this Defendant did write and ſubſcribe the two notes ſhewed unto him, the one dated the 21. of Sept. and the other the 24. of the ſame, which notes were read in the honourable Houſe of Commons, and did command the Inhabitants of Marton being his Tenants, not to aſſeſs the ſame, or pay any more money to William Bury their Treaſurer, unleſſe the Committee could ſhew them an Ordinance to raiſe and pay the ſaid money according to that Warrant, whereupon an Order was made and delivered to this Defendants tenant in theſe words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>At the ſtanding Committee for the County of Lincolne.</head>
+                        <p>
+                           <note place="margin">Exam. per. Tho. Dowſe.</note>IT is ordered that the Lands of Col. Edward King in Row<g ref="char:EOLhyphen"/>ſton be ſequeſtred, untill he ſhall pay his aſſeſsments due for the ſame upon ſeverall Ordinances: And upon the 6. of October, the Ordinances for raiſing and maintaining of the Forces under the Command of Sir Thomas Fairfax being ex<g ref="char:EOLhyphen"/>pired, and the power of that Committee determined, Wil<g ref="char:EOLhyphen"/>liam Diſnie, Moſes Diſnie, and William Godfrey, ſent out a Warrant in theſe words:</p>
+                        <div type="warrant">
+                           <head>To Edward Burnet.</head>
+                           <p>
+                              <note place="margin">The Warrant illegall.</note>COmplaint being made unto us, and alſo teſtimony given, that Thomas Cook of Rowſton being appointed, an Aſſeſſor, Collector of the Aſſeſſement impoſed on that Towne for ſix moneths, and foure moneths for mainte<g ref="char:EOLhyphen"/>nance
+<pb n="24" facs="tcp:113993:16"/>
+of the Forces under the command of Sir Tho<g ref="char:EOLhyphen"/>mas Fairfax,<note place="margin">William Diſ<g ref="char:EOLhyphen"/>ney. M. Diſney. William God<g ref="char:EOLhyphen"/>frey.</note> and having received a Warrant to that purpoſe, doth notwithſtanding contemptuouſly refuſe to make the ſaid Aſſeſſement, to the great retarding of the ſervice, not onely in that Towne, but in all the Townes adjoyning, by his ill example, for which he is fined forty ſhillings: Theſe are therefore according to the ſaid Ordinance to injoyne you to leavy the ſaid forty ſhillings upon the goods and chattells of the ſaid Thomas Cook by diſtreſſe, ſale of goods, and in caſe of reſiſtance, the ſoul<g ref="char:EOLhyphen"/>diers quartering in the Towne, or thereabouts, are deſired to aſsiſt you herein, for which this ſhall be ſufficient War<g ref="char:EOLhyphen"/>rant.</p>
+                           <closer>
+                              <dateline>Lincoln,
+<date>Octob. <hi>6. 1646.</hi>
+                                 </date>
+                              </dateline>
+                           </closer>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>By colour of this Warrant Thomas Cook was diſtrained by ſouldiers, whereupon this Defendant adviſed his Te<g ref="char:EOLhyphen"/>nant to bring an action at the Common Law, who de<g ref="char:EOLhyphen"/>claring as much, the diſtreſſe was waived, and about two daies after a party of ſouldiers ſent to Rowſton, and the ſaid Cook by force taken out of his houſe and carried to Lincolne, where M. Archer, and ſome others of the Com<g ref="char:EOLhyphen"/>mittee impriſoned him untill hee had paid forty ſhillings fine, (as they called it) and after that they appointed him an Aſseſsor and Collector for the ſecond ten months tax, and ſome of the Committees have ſince by force, im<g ref="char:EOLhyphen"/>priſonments, and threats, as this Defendant is informed, and hopes to prove, unjuſtly compelled the ſaid Cook to aſſeſſe and collect the ſame, and taking upon them an arbitra<g ref="char:EOLhyphen"/>ry and tyrannicall power, have ſince their authority was deter<g ref="char:EOLhyphen"/>mined, oppreſſively and corruptly levied the ſum of 20700.<abbr>l.</abbr> or a very great part thereof upon the County of Lincolne;
+<pb n="25" facs="tcp:113993:16"/>
+whereas in all caſes of difficulty and doubt, this defendent con<g ref="char:EOLhyphen"/>ceiveth, it is their duty, to addreſſe themſelves to the honourable Houſes of Parliament, and not by force and impriſonment, (in this manner) to deſtroy the Subjects of that County, whoſe ſuf<g ref="char:EOLhyphen"/>ferings have been intollerable, and whoſe poverty is very great; by which unlimitted power the ſaid Committee have levied 33600<abbr>l.</abbr> upon the County of Lincolne, very unwarrantably and unjuſtly, againſt the form and effect of the Ordinances of Parlia<g ref="char:EOLhyphen"/>ment, to the undoing of infinite numbers of people; and the great dammage and wrongfull vexation of the Inhabitants of the ſame. At which unconſcionable and unjuſt levies, this defendant is the rather agrieved, when he conſidereth that the ſum raiſed by way of Tax from the 1. of February 1644. in Lincolnſhire, doth amount unto the ſum of 75000<abbr>l.</abbr> beſides the goods and rates of Delin<g ref="char:EOLhyphen"/>quents which came to the hands of ſome of the Committee, and were at their diſpoſing, are of an exceeding great value: that vaſt ſums have been levied by tickets without any name ſubſcribed to the ſame; called the fifth, and twentieth part: and that 1400. quarters of Oats hath been monethly aſſeſſed upon the County;<note place="margin">Great ſums of mony raiſed upon the Earl of <hi>Mancheſters</hi> Ordinances after they were expired, which is not menti<g ref="char:EOLhyphen"/>oned.</note> And ſeverall other devices ſet on foot to levy mony by colour of the Ordinance for Sequeſtrations. And yet the Soldiers have lived upon Free-quarter, contrary to the Ordinances and Orders of Par<g ref="char:EOLhyphen"/>liament, it being ordered, <hi>die veneris</hi> 26. December, 1645. That the Committee of the Army do according to former directions take care to ſee the Inhabitants in all places duly ſatisfied for ſuch Free-quartering, or quarters as have been taken by the Army un<g ref="char:EOLhyphen"/>der the command of Sir Thomas Fairfax; or any part of the ſaid Army: the Horſes, hey, corne, and goods of the poor Husband-men taken from them without price, the charges and expences of levying, Impreſſing, and conducting Soldiers, contrary to the Or<g ref="char:EOLhyphen"/>dinance of Parliament, made very grievous and burdenſome to the County by ſome of the Committee, when as the 800. Horſe, ſent out of the Eaſterne Aſſociation, was paid by order of Parliament, and 20000<abbr>l.</abbr> paid to the three Regiments of Horſe under the com<g ref="char:EOLhyphen"/>mand of Major Lehunt, Major Gibb, and Major Haines; and the Company of Dragoons under Captaine Walletts command, as by Ordinance of Parliament appeareth: all which this defendant well
+<pb n="26" facs="tcp:113993:17"/>
+knowing to be true, he cannot but admire what is become of the monies, thus unjuſtly extorted from the poor people by the foreſaid Committee-men.</p>
+            <p>And laſtly, this defendant faith, that William Bury, John Ar<g ref="char:EOLhyphen"/>cher, William Liſter, and John Diſney, by colour of being Com<g ref="char:EOLhyphen"/>mittee-men ſhaking the ancient and fundamentall laws of this Kingdome, there being no Articles depending before the Com<g ref="char:EOLhyphen"/>mittee againſt this defendant, being both his accuſers and proſe<g ref="char:EOLhyphen"/>cuters here: and proſecuters and Judges in the country, have taken upon them by their diſcretion, to examine ſeverall per<g ref="char:EOLhyphen"/>ſons againſt this defendent, and by force thereof have preferred theſe ſiniſter, crafty, feigned, and forged informations againſt him; and unjuſtly and wickedly purſue the fame, to his great dammage and wrongfull vexation; which if not timely puniſhed by the juſtice and wiſdome of the Parliament, its not credible what horrible oppreſſions and exactions, to the undoing of infi<g ref="char:EOLhyphen"/>nite numbers of the people, will be committed by this unjuſt and injurious power. For if this undue proceeding ſhould be counte<g ref="char:EOLhyphen"/>nanced againſt this defendant he hath neither ſafety in his life, right, nor property in his eſtate or goods, nor liberty in his per<g ref="char:EOLhyphen"/>ſon, there being at this preſent, Warrants ſent to ſeverall perſent in Lincolnſhire under the hands of ſome Committee-men to ga<g ref="char:EOLhyphen"/>ther informations againſt him in theſe words,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <head>
+                           <hi>To</hi> John Hutchinſon <hi>of</hi> Scawpwick, George Sturdivile <hi>of</hi> Marton, James Norman <hi>of</hi> Thrope Tillney, William Smedly <hi>of</hi> North Kime, <hi>&amp;c.</hi>
+                        </head>
+                        <p>
+                           <note place="margin">Will. Liſter. Will. Bury. Iohn Diſney.</note>THeſe are to require and charge you, and every of you, all ex<g ref="char:EOLhyphen"/>cuſes ſet apart and delay, to make your ſeverall appearance before us at Lincolne on Wedneſday next, by ten of the clock in the fore-noone, to anſwer ſuch matters as ſhall be demanded of you, on the behalf of the Common-wealth: hereof fail not, as you will anſwer the contrary at your perils. Given at Lincolne December 5. 1646.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Sturdivile appearing upon this Warrant, was examined as fol<g ref="char:EOLhyphen"/>loweth.
+<pb n="27" facs="tcp:113993:17"/>
+Did Colonel Kinge hinder the aſſeſments for the ten Moneths or not? did you demand it of him? how many children hath Colonel Kinge? whether be they boys, or wenches? what age are the children? what are their names? do any of them live with his Father, or his Wifes Mother.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="testimony">
+                        <head>
+                           <hi>The examination of</hi> Robert Prugeon <hi>taken at</hi> Lincolne December 9. 1646. <hi>before</hi> Will: Bury, <hi>&amp;c.</hi>
+                        </head>
+                        <p>THat I Robert Prugeon of Walcott do think in my conſcience that the charge of Col:<note place="margin">This <hi>Prugeon</hi> is a knowne Delinquent.</note> Edward Kinge given at Folkingham at the laſt quarter Seſſions; wherein he ſpake of the ſecond ten moneths Tax, for Sir Thomas Fairfax, of the illegalneſſe of it, to be an hinderance to the ſaid parts of Keſtiven; not paying it to the Committees at Lincolne, hereunto I ſet my hand.</p>
+                        <closer>
+                           <signed>Robert Prugeon.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>One Guſtards, and divers others were compelled to do the like, and ſuch as did ſpeak in the juſtification of this defendant, their teſtimonies were rejected, which bare informations taken con<g ref="char:EOLhyphen"/>trary to the law, in the abſence of this defendant; who by or<g ref="char:EOLhyphen"/>der of this Committee is commanded to attend here touching the ſame buſineſſe, and cannot croſſe examine them for his juſt de<g ref="char:EOLhyphen"/>fence, ought not, as this defendent humbly conceives, to be admit<g ref="char:EOLhyphen"/>ted as an accuſation againſt him before this honourable Commit<g ref="char:EOLhyphen"/>tee, nor he thereupon be taken, impriſoned, or put out of his free<g ref="char:EOLhyphen"/>hold; neither ought he by the great Charter of this Kingdome, be put to anſwer the ſame; all which he referreth to the judge<g ref="char:EOLhyphen"/>ment, wiſdome, and piety of this honourable Committee, and prayeth that the ſame may be reported to the honourable Houſe of Commons, that juſtice may be executed upon offenders, and this defendent diſmiſt with a juſt and honourable reparation.</p>
+            <closer>
+               <signed>EDWARD KINGE.</signed>
+               <dateline>
+                  <date>Decemb. 21. 1646.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
